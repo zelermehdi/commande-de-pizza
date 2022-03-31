@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border-radius: 30px;
+}
+.commande{
+    background-color: #80808093;
+    min-height: 100px;
+    width: 280px;
+    margin: 20px auto;
+    text-align: left;
+    padding: 10px;
+}
+span{
+    color: rgb(25, 173, 25);
+}
+#message{
+    background-color: #80808093;
+    height: 50px;
+    width: 250px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+.gros{
+    display: none;
+    margin: auto;
+}
+.radin{
+    display: none;
+margin: auto;
+}
